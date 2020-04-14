@@ -1,0 +1,73 @@
+#homeicon {
+    width: 68px;
+    height: 68px;
+    margin-left: 60px;
+    
+}
+#profileicon {
+       width: 60px;
+    height: 60px;
+}
+#notebookicon {
+       width: 60px;
+    height: 60px;
+}
+#tipsmenuicon {
+       width: 65px;
+    height: 65px;
+}
+#logo {
+       width: 100px;
+    height:100px;
+}
+#home {
+       width: 500px;
+    height: 920px;
+}
+#profile {
+       width: 500px;
+    height: 920px;
+}
+#notebook {
+       width: 500px;
+    height: 920px;
+}
+#tipsmenu {
+       width: 500px;
+    height: 920px;
+}
+#main1 {
+       width: 400px;
+    height: 400px;
+    margin-top: -130px;
+    margin-left: 40px;
+}
+#main2 {
+       width: 300px;
+    height: 150px;
+    margin-left: 90px;
+}
+#main3 {
+       width: 280px;
+    height: 130px;
+     margin-left: 108px;
+}
+#main4 {
+       width: 500px;
+    height: 300px;
+}
+#login1 {
+       width: 500px;
+    height: 700px;
+    margin-top: -130px;
+  
+}
+#login2 {
+       width: 280px;
+    height: 130px;
+     margin-left: 108px;
+}
+#login3 {
+       width: 500px;
+    height: 300px;
+}
